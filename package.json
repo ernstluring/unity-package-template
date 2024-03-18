@@ -1,0 +1,14 @@
+{
+  "name": "com.companyname.packagename",
+  "version": "1.0.0",
+  "displayName": "Package Name",
+  "description": "",
+  "keywords": [],
+  "author": {
+    "name": "Ernst Luring",
+    "email": "info@ejldigital.com",
+    "url": "https://www.ejldigital.com"
+  },
+  "dependencies": {},
+  "unity": "2020.3"
+}
