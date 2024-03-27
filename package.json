@@ -1,5 +1,5 @@
 {
-  "name": "com.companyname.packagename",
+  "name": "com.ejldigital.packagename",
   "version": "1.0.0",
   "displayName": "Package Name",
   "description": "",
@@ -9,6 +9,8 @@
     "email": "info@ejldigital.com",
     "url": "https://www.ejldigital.com"
   },
-  "dependencies": {},
+  "dependencies": {
+    "com.unity.textmeshpro": "1.4.1"
+  },
   "unity": "2020.3"
 }

@@ -1,0 +1,16 @@
+{
+    "name": "com.ejldigital.tool.Editor",
+    "references": [
+        "com.company.tool"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
